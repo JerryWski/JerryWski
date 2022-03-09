@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerryWski
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML / CSS / JS
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me : jarek_wasilewski@yahoo.com
 
 <!---
